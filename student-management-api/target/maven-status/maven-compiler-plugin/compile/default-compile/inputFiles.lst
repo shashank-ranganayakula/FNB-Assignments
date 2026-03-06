@@ -1,0 +1,9 @@
+C:\Users\Admin-LFI\OneDrive - Linkfields innovations\Desktop\Coding\Assignments FNB\student-management-api\src\main\java\com\example\studentapi\controller\StudentController.java
+C:\Users\Admin-LFI\OneDrive - Linkfields innovations\Desktop\Coding\Assignments FNB\student-management-api\src\main\java\com\example\studentapi\exception\StudentNotFoundException.java
+C:\Users\Admin-LFI\OneDrive - Linkfields innovations\Desktop\Coding\Assignments FNB\student-management-api\src\main\java\com\example\studentapi\exception\DuplicateEmailException.java
+C:\Users\Admin-LFI\OneDrive - Linkfields innovations\Desktop\Coding\Assignments FNB\student-management-api\src\main\java\com\example\studentapi\StudentManagementApiApplication.java
+C:\Users\Admin-LFI\OneDrive - Linkfields innovations\Desktop\Coding\Assignments FNB\student-management-api\src\main\java\com\example\studentapi\exception\GlobalExceptionHandler.java
+C:\Users\Admin-LFI\OneDrive - Linkfields innovations\Desktop\Coding\Assignments FNB\student-management-api\src\main\java\com\example\studentapi\model\Student.java
+C:\Users\Admin-LFI\OneDrive - Linkfields innovations\Desktop\Coding\Assignments FNB\student-management-api\src\main\java\com\example\studentapi\repository\StudentRepository.java
+C:\Users\Admin-LFI\OneDrive - Linkfields innovations\Desktop\Coding\Assignments FNB\student-management-api\src\main\java\com\example\studentapi\service\StudentService.java
+C:\Users\Admin-LFI\OneDrive - Linkfields innovations\Desktop\Coding\Assignments FNB\student-management-api\src\main\java\com\example\studentapi\dto\StudentDTO.java

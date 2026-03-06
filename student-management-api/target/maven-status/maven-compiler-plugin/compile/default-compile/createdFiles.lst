@@ -1,0 +1,17 @@
+com\example\studentapi\StudentManagementApiApplication.class
+com\example\studentapi\controller\StudentController.class
+com\example\studentapi\repository\StudentRepository.class
+com\example\studentapi\model\Student$StudentBuilder.class
+com\example\studentapi\dto\StudentDTO$ApiResponse$ApiResponseBuilder.class
+com\example\studentapi\exception\StudentNotFoundException.class
+com\example\studentapi\service\StudentService.class
+com\example\studentapi\dto\StudentDTO$ApiResponse.class
+com\example\studentapi\model\Student.class
+com\example\studentapi\dto\StudentDTO$Response$ResponseBuilder.class
+com\example\studentapi\exception\GlobalExceptionHandler.class
+com\example\studentapi\exception\DuplicateEmailException.class
+com\example\studentapi\dto\StudentDTO$Response.class
+com\example\studentapi\dto\StudentDTO$Request.class
+com\example\studentapi\model\Student$EnrollmentStatus.class
+com\example\studentapi\dto\StudentDTO.class
+com\example\studentapi\dto\StudentDTO$Request$RequestBuilder.class
